@@ -45,7 +45,7 @@ Adoro **resolver problemas complexos, otimizar sistemas e criar soluções escal
 
 ### 🔗 Contato
 <div align="center">
-  <a href="www.linkedin.com/in/guilherme-opieko-auer-410024210" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-opieko-auer-410024210" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" />
   </a>
 </div>

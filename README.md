@@ -29,7 +29,7 @@
 ---
 
 ### 💼 Sobre Mim
-Sou desenvolvedor Java com formação em **Análise e Desenvolvimento de Sistemas** pela UTFPR. Tenho experiência prática em **desenvolvimento back-end com Spring Boot**, bancos de dados PostgreSQL, **integração de APIs**, e também conhecimentos em **front-end com Angular, HTML, CSS e JavaScript**.  
+Sou desenvolvedor Java com formação em **Análise e Desenvolvimento de Sistemas** pela UTFPR. Tenho experiência prática em **desenvolvimento back-end com Spring Boot**, bancos de dados PostgreSQL, **integração de APIs**, e também conhecimentos em **front-end com Angular, HTML, SCSS e TypeScript**.  
 
 Adoro **resolver problemas complexos, otimizar sistemas e criar soluções escaláveis**, sempre aplicando boas práticas de código e arquitetura. Busco crescimento contínuo, aprendizado de novas tecnologias e contribuir com projetos que impactem positivamente usuários reais.
 
